@@ -1,0 +1,6 @@
+
+{
+  "name": "ClinIQ Vault Healthcare",
+  "description": "A secure, multi-tenant RAG platform for healthcare networks, ensuring HIPAA-compliant data isolation across departments like Radiology, Oncology, and Pathology.",
+  "requestFramePermissions": []
+}
