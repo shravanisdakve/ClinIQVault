@@ -1,4 +1,4 @@
-# ClinIQ Vault | Healthcare Edition
+# ClinIQ Vault
 
 ClinIQ Vault is a secure, department-aware healthcare knowledge management system designed to run in a private, on-premise environment. It leverages a powerful AI assistant (Google Gemini) to provide healthcare professionals with quick, context-aware answers from a managed knowledge base of medical documents, records, and protocols.
 
